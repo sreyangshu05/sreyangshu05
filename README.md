@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me:
 - 🔭 I’m currently working on **AI-powered web applications**
-- 🌱 I’m currently learning **DevOps & Cloud Computing**
+- 🌱 I’m currently learning **DevOps**
 - 👨‍💻 All of my projects are available at **[My GitHub](https://github.com/sreyangshu05)**
 - 💬 Ask me about **MERN Stack, Python, AI & DevOps**
 - 📫 Reach me at **sreyangshusarkar@gmail.com**
