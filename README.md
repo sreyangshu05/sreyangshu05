@@ -1,8 +1,3 @@
-<!-- Hero Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sreyangshu05/sreyangshu05/main/assets/hero-banner.svg" alt="Hero Banner" width="100%" />
-</p>
-
 <h1 align="center">👋 Hi, I'm Sreyangshu Sarkar</h1>
 <h3 align="center">🚀 Full-Stack Developer | AI Enthusiast | DevOps Learner</h3>
 
@@ -19,7 +14,7 @@
 
 ## 🧭 About Me
 
-- 🎓 Final-year CS student, University of Calcutta  
+- 🎓 CS grad, University of Calcutta  
 - 🔭 Working on AI-powered apps & scalable APIs  
 - 🐳 Learning DevOps (Docker, Kubernetes, CI/CD)  
 - 🌐 Portfolio: [sreyangshu-sarkardev.netlify.app](https://sreyangshu-sarkardev.netlify.app)  
@@ -118,4 +113,4 @@ app.listen(3000, () => console.log("Server running on port 3000"));
 
 ## 🎉 Thanks for Visiting!
 
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Let's+Build+Something+Amazing+Together!;Thanks+for+Scrolling+Till+the+End+🎉" alt="Thank You Typing" /> </p>
+<p align="center">Let's Connect</p>
