@@ -107,7 +107,7 @@ app.get("/", (req, res) => {
 });
 
 app.listen(3000, () => console.log("Server running on port 3000"));
-
+```
 ## 📈 GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sreyangshu05&show_icons=true&theme=radical" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sreyangshu05&theme=radical" width="48%" /> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=sreyangshu05&theme=darkhub&no-bg=true&margin-w=10" /> </p>
@@ -119,4 +119,3 @@ app.listen(3000, () => console.log("Server running on port 3000"));
 ## 🎉 Thanks for Visiting!
 
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Let's+Build+Something+Amazing+Together!;Thanks+for+Scrolling+Till+the+End+🎉" alt="Thank You Typing" /> </p>
-```
