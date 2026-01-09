@@ -24,12 +24,12 @@
 ## 🧭 About Me
 
 > **Engineer by mindset. Problem-solver by practice.**  
-I build **production-grade software systems** where **performance, scalability, reliability, and clarity** matter.
+> I build **production-grade software systems** where **performance, scalability, reliability, and clarity** matter.
 
 - 🎓 **B.Sc. in Computer Science (Honours)** — University of Calcutta  
 - 📍 Kolkata, West Bengal, India  
 - 🧠 Strong foundation in **DSA, OS, DBMS, Networks, Software Engineering**
-- 🔭 Currently working on **AI-powered platforms & scalable APIs**
+- 🔭 Building **AI-powered platforms & scalable APIs**
 - 🐳 Exploring **DevOps** — Docker, Kubernetes, CI/CD
 - 🌐 Portfolio: **https://sreyangshu-sarkardev.netlify.app**
 - 📫 Email: **sreyangshusarkar@gmail.com**
@@ -51,19 +51,19 @@ I build **production-grade software systems** where **performance, scalability, 
 - HTML5, CSS3, React, Next.js, Bootstrap, Tailwind CSS, WordPress
 
 **Backend**
-- Node.js, Express.js, Django, Flask, REST APIs, GraphQL
-- Prisma ORM, Supabase, Redis
+- Node.js, Express.js, Django, Flask  
+- REST APIs, GraphQL, Prisma ORM, Redis, Supabase
 
 **Databases**
 - MongoDB, PostgreSQL, MySQL, SQLite, Vector Databases
 
 **AI / ML**
-- TensorFlow, Scikit-learn, Keras, OpenCV
-- NLP, RAG, LangChain, FAISS, Sentence Transformers
+- TensorFlow, Scikit-learn, Keras, OpenCV  
+- NLP, RAG, LangChain, FAISS, Sentence Transformers  
 - OpenAI / Gemini APIs
 
 **DevOps & Tools**
-- Git, GitHub, Docker, Kubernetes, CI/CD
+- Git, GitHub, Docker, Kubernetes, CI/CD  
 - VS Code, PyCharm, Postman, Thunder Client
 
 ---
@@ -85,9 +85,9 @@ I build **production-grade software systems** where **performance, scalability, 
 ### 🧑‍💻 Zi Cloud — *Full-Stack Developer Intern*  
 📍 Remote | 🗓️ **Sept 2024 – Nov 2024**
 
-- Engineered **2 Node.js automation tools**, improving operational efficiency by **40%**
-- Built dynamic guide & homepage interfaces using **WordPress**, enhancing navigation flow by **35%**
-- Developed **React-based dashboards**, calendar UI, and bar chart visualizations  
+- Engineered **2 Node.js automation tools**, boosting operational efficiency by **40%**
+- Built dynamic **WordPress** guide & homepage interfaces, improving navigation flow by **35%**
+- Developed **React-based dashboards**, calendar UI & bar chart visualizations  
   → Improved data accessibility & interactivity by **45%**
 
 ---
@@ -95,9 +95,9 @@ I build **production-grade software systems** where **performance, scalability, 
 ### 🐍 CodSoft — *Python Developer Intern*  
 📍 Remote | 🗓️ **Jul 2024 – Aug 2024**
 
-- Developed Python applications (Calculator, Password Generator, To-Do List)
+- Developed Python applications: **Calculator, Password Generator, To-Do List**
 - Collaborated on coding standards → **30% improvement** in delivery timelines
-- Managed debugging and Git workflows → **0 major post-deployment bugs**
+- Managed Git workflows & debugging → **0 major post-deployment bugs**
 
 ---
 
@@ -106,60 +106,89 @@ I build **production-grade software systems** where **performance, scalability, 
 ### 🔒 SureEntry Pro  
 **AI-Based Face Recognition Attendance System**
 
-- 🎯 Achieved **95%+ face recognition accuracy**
-- ⚡ Optimized detection pipeline → **35% latency reduction**
-- 📁 Automated attendance logging using CSV/XML
-- 🧠 Persistent ML models with `joblib`
+- 🎯 **95%+ face recognition accuracy**
+- ⚡ **35% latency reduction** via optimized detection pipeline
+- 📁 Automated attendance logging (CSV / XML)
+- 🧠 Persistent ML models using `joblib`
 
 **Tech:** Python, OpenCV, Flask  
-🔗 GitHub: https://github.com/sreyangshu05/SureEntry-Pro
+🔗 GitHub: https://github.com/sreyangshu05/SureEntry-Pro  
+🌐 Live: https://sureentry.netlify.app/
 
 ---
 
 ### 🧠 FunLearn  
 **AI-Powered Personal Tutor Platform**
 
-- ⚡ Reduced response latency by **40%**
-- 🎓 Increased learner engagement by **35%**
+- ⚡ **40% response latency reduction**
+- 🎓 **35% learner engagement increase**
 - 🔌 Single `POST /ask` endpoint → **60% routing efficiency gain**
 
 **Tech:** Flask, React, Vite, Google Gemini API  
-🔗 Live: https://skc-sreyangshusarkar-funlearn.netlify.app/
+🔗 GitHub: https://github.com/sreyangshu05/Tutor  
+🌐 Live: https://skc-sreyangshusarkar-funlearn.netlify.app/
 
 ---
 
 ### 🤖 SmartSupport AI  
 **Enterprise-Grade AI Support Platform**
 
-- 📈 Improved ticket resolution efficiency by **40%**
-- 🧠 AI/NLP modules for summarization, semantic search & clustering
-- ⏱️ Reduced new agent onboarding time by **30%**
+- 📈 **40% improvement** in ticket resolution efficiency
+- 🧠 AI/NLP: summarization, semantic search, clustering
+- ⏱️ **30% reduction** in new agent onboarding time
 
-**Tech:** React, TypeScript, FastAPI, PostgreSQL, Redis, NLP  
-🔗 GitHub: (private / demo available)
+**Tech:** React, TypeScript, FastAPI, PostgreSQL, Redis  
+🔗 GitHub: https://github.com/sreyangshu05/SmartSupport-AI  
+🌐 Live: https://smartsupport-ai.vercel.app/
+
+---
+
+### 🧠 IdeaGraph  
+**Real-Time Collaborative Graph Editor**
+
+- ⚡ Handles **500+ nodes** with **1–2s sync latency**
+- 🤝 Multi-user collaboration with conflict resolution
+- 🧠 AI-powered node suggestions & version history
+
+**Tech:** React, TypeScript, Socket.IO, Node.js, Neo4j, PostgreSQL  
+🔗 GitHub: https://github.com/sreyangshu05/IdeaGraph
+
+---
+
+### 📘 StudyMate AI  
+**RAG-Based AI Learning Platform**
+
+- 📄 PDF-based Q&A, quiz generation & progress tracking
+- ⚡ **2–5s/page document processing**
+- 🔐 Secure auth with JWT, bcrypt, CORS
+
+**Tech:** React, Node.js, Express, SQLite, OpenAI API, FAISS  
+🔗 GitHub: https://github.com/sreyangshu05/StudyMate  
+🌐 Live: https://studymate-aideploy.netlify.app/login
+
+---
+
+### 📊 FiscalFocus  
+**ML-Driven Finance Dashboard**
+
+- 📈 **40% faster data retrieval**
+- 🔁 MongoDB caching → **45% response time reduction**
+- 🤖 ML forecasting with **85% prediction accuracy**
+
+**Tech:** MERN Stack, TypeScript, Redux Toolkit, ML  
+🔗 GitHub: https://github.com/sreyangshu05/FiscalFocus
 
 ---
 
 ### 🧳 Travel Sadhu  
 **Full-Stack Travel Booking Platform**
 
-- 🗺️ PostgreSQL-backed scalable architecture
-- 🔐 Secure authentication & modular backend services
+- 🗺️ Scalable PostgreSQL-backed architecture
+- 🔐 Secure authentication & modular backend
 - 📦 Clean REST API design
 
 **Tech:** Node.js, Express, PostgreSQL, React  
 🔗 GitHub: https://github.com/Soumodeep-Karmakar/Travel
-
----
-
-### 📬 Email Template Creator  
-**Drag-and-Drop Responsive Email Builder**
-
-- 📱 Fully responsive templates
-- 🧩 Component-driven UI architecture
-- ⚡ Real-time preview support
-
-🔗 GitHub: https://github.com/sreyangshu05/Email_Template_Creator
 
 ---
 
@@ -177,3 +206,27 @@ app.get("/", (_, res) => {
 app.listen(3000, () => {
   console.log("Server running on port 3000");
 });
+```
+
+## 🤝 Let’s Connect
+
+<p align="center">
+  <a href="mailto:sreyangshusarkar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-sreyangshusarkar%40gmail.com-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/sreyangsh-sarkar/">
+    <img src="https://img.shields.io/badge/LinkedIn-Sreyangshu%20Sarkar-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/sreyangshu05">
+    <img src="https://img.shields.io/badge/GitHub-sreyangshu05-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://sreyangshu-sarkardev.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-success?style=for-the-badge&logo=netlify" />
+  </a>
+</p>
+
+<p align="center">
+💡 Open to <strong>Full-Stack</strong>, <strong>Backend</strong>, and <strong>AI-Driven</strong> roles  
+🤝 Interested in <strong>open-source collaboration</strong> & impactful engineering work  
+📬 Feel free to reach out — I usually respond within <strong>24 hours</strong>
+</p>
