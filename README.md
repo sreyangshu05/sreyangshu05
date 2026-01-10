@@ -31,7 +31,7 @@
 - 🧠 Strong foundation in **DSA, OS, DBMS, Networks, Software Engineering**
 - 🔭 Building **AI-powered platforms & scalable APIs**
 - 🐳 Exploring **DevOps** — Docker, Kubernetes, CI/CD
-- 🌐 Portfolio: **https://sreyangshu-sarkardev.netlify.app**
+- 🌐 Portfolio: **https://sreyangshusarkardev.vercel.app/**
 - 📫 Email: **sreyangshusarkar@gmail.com**
 
 ---
@@ -220,7 +220,7 @@ app.listen(3000, () => {
   <a href="https://github.com/sreyangshu05">
     <img src="https://img.shields.io/badge/GitHub-sreyangshu05-black?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://sreyangshu-sarkardev.netlify.app">
+  <a href="https://sreyangshusarkardev.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-success?style=for-the-badge&logo=netlify" />
   </a>
 </p>
